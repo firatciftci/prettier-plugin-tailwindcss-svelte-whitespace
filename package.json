@@ -1,0 +1,15 @@
+{
+  "name": "prettier-plugin-tailwindcss-svelte-whitespace",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "format": "prettier --write src/App.svelte"
+  },
+  "devDependencies": {
+    "prettier": "3.9.9",
+    "prettier-plugin-svelte": "4.1.1",
+    "prettier-plugin-tailwindcss": "0.8.1",
+    "svelte": "5.57.1",
+    "tailwindcss": "4.3.3"
+  }
+}
